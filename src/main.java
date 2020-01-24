@@ -44,12 +44,11 @@ public class main {
 
                 case "0":
                     appOn = false;
-                    System.exit(0);
+                    break;
 
                 default:
                     System.out.println("Wrong letter!");
                     break;
-
 
             }
         }
